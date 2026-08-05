@@ -2,8 +2,8 @@
 Below is the list of [participants](governance-documents/5._Governance.md#1roles) in the {standard_name}, who have committed to the [Community Specification Contributor License Agreement](governance-documents/0._CS_Contributor_License_Agreement.md).
 
 ## Participants
-- Name, organization, Date of enrollment: MMM/DD/YYYY
-- 
+- Name, organization, Date of enrollment: MM/DD/YYYY
+- [Joseph Pollack](github.com/Josephrp) , Tonic-AI , 07/20/2024
 -
 -  
 - 
