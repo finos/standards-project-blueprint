@@ -1,6 +1,6 @@
 # Community Specification Contributor License Agreement 1.0
 
-By making a Contribution to this repository, I agree to the terms of the following documents located at [https://github.com/finos/standards-project-blueprint](https://github.com/finos/standards-project-blueprint):
+By making a Contribution to this repository, I agree to the terms of the following documents located at [https://github.com/finos/{project-slug}](https://github.com/finos/{project-slug}):
 
 (a) Community Specification License 1.0 ([LICENSES/SPECIFICATION-LICENSE](../LICENSES/SPECIFICATION-LICENSE))
 
