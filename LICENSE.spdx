@@ -1,0 +1,7 @@
+SPDXVersion: SPDX-2.0
+DataLicense: CC0-1.0
+Creator: {name of copyright owner}
+PackageName: {standard-name}
+PackageOriginator: {name of copyright owner}
+PackageHomePage: https://github.com/finos/{standard-slug}
+PackageLicenseDeclared: Community-Spec-1.0 AND Apache-2.0

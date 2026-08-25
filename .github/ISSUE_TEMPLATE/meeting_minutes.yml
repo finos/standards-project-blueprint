@@ -1,12 +1,12 @@
-name: 🤝 {project-name} Meeting Minutes
-description: To track {project-name} meeting agenda and attendance
-title: "MMM DD YYYY - {project-name} Meeting Minutes"
+name: 🤝 {standard-name} Meeting Minutes
+description: To track {standard-name} meeting agenda and attendance
+title: "MMM DD YYYY - {standard-name} Meeting Minutes"
 labels: ["meeting"]
 body:
   - type: markdown
     attributes:
       value: |
-        # {project-name} Meeting
+        # {standard-name} Meeting
   - type: input
     id: date
     attributes:

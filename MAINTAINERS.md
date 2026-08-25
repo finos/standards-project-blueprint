@@ -7,7 +7,7 @@ This file lists the maintainers of this repository.
 | GitHub Username | Name | Organization | Email (Optional) |
 |----------------|------|--------------|-------|
 
-For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
+For information about maintainer responsibilities, see [GOVERNANCE.md](GOVERNANCE.md) and the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
 ## Updating this file
 
