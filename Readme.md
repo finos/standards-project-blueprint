@@ -10,7 +10,7 @@ The Community Specification allows you to start a specification development effo
 
 ## How to get started?
 
-Instructions for using the Community Specification are included in the [Getting Started.md file](governance-documents/Getting%20Started.md).
+Instructions for using this project template are included in [GETTING_STARTED.md](GETTING_STARTED.md).
 
 ## Could I just use an open source license for my specifications? Why should I use a specification license?
 

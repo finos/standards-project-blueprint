@@ -4,9 +4,9 @@ This document provides the contribution policy for specifications and other docu
 
 ## Requirements
 
-All contributions to this repository are made in agreement with the [Community Specification Contributor License Agreement 1.0](0._CS_Contributor_License_Agreement.md).
+All contributions to this repository are made in agreement with the [Community Specification Contributor License Agreement 1.0](governance-documents/CS_Contributor_License_Agreement.md).
 
-Pull requests **must** contain the enrollment and contribution language in the [pull request template](../.github/PULL_REQUEST_TEMPLATE/default.md). A pull request that omits that content will not be accepted.
+Pull requests **must** contain the enrollment and contribution language in the [pull request template](.github/PULL_REQUEST_TEMPLATE/default.md). A pull request that omits that content will not be accepted.
 
 ## 1.	Contribution Guidelines. 
 
@@ -50,7 +50,7 @@ The Working Group uses pull requests to track changes. To submit a change to the
 
 **3.1	Fork the Repo, modify the Specification to Address the Issue.**
 
-**3.2.	Submit a Pull Request.** The pull request description must contain the content of the [pull request template](../.github/PULL_REQUEST_TEMPLATE/default.md), which records agreement with the [Contributor License Agreement](0._CS_Contributor_License_Agreement.md).
+**3.2.	Submit a Pull Request.** The pull request description must contain the content of the [pull request template](.github/pull_request_template.md), which records agreement with the [Contributor License Agreement](governance-documents/CS_Contributor_License_Agreement.md).
 
 ## 4.	Pull Request Workflow.
 
@@ -89,3 +89,15 @@ o	A pull request should stay open until a Maintainer has marked the pull request
 o	Pull requests can be closed by the author without merging.
 
 o	Pull requests may be closed by a Maintainer if the decision is made that it is not going to be merged.
+
+## 5.	Best Practices.
+
+**5.1.	Enrollment.** All contributors should enroll by submitting a pull request to [PARTICIPANTS.md](PARTICIPANTS.md) accepting the license terms. That will trigger the [EasyCLA](https://easycla.lfx.linuxfoundation.org/) bot to require a Community Specification Contributor License Agreement be signed (either by an individual contributor or by a contributor's employer, which covers the employed contributor) before any contribution. If less formality is required, enrollment pull requests can use the [pull request template](.github/pull_request_template.md) to indicate active agreement with the Community Specification License.
+
+**5.2.	Use for specifications, not code.** Use the Community Specification License for specification development, not code.
+
+**5.3.	Specification format.** Where appropriate, use the [Community Specification Template](governance-documents/CS_Template.md) to draft your specification.
+
+**5.4.	Separate specifications and source code.** Where possible, separate specifications and source code into different repositories, with the specifications under the Community Specification License and the source code under an OSI-approved open source license.
+
+**5.5.	One specification per repository.** When developing multiple specifications, each individual specification should be in its own repository.
